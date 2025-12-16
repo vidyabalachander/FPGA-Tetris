@@ -29,3 +29,11 @@ Programming Language: SystemVerilog
 
 Tools: Quartus Prime, ModelSim
 
+## Author
+**Vidya Balachander**
+
+Email: vidyakbalachander@gmail.com
+
+GitHub: [vidyabalachander](https://github.com/vidyabalachander)
+
+LinkedIn: [vidya-balachander](https://www.linkedin.com/in/vidya-balachander/)
